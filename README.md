@@ -2,9 +2,9 @@
 Data Structures 2 practical assignment — Java
 
 ## Student details
-- Name: **[Enter your name]**
-- University ID: **[Enter your ID]**
-- Section: **[Enter your section]**
+- Name: **[Isra Aboualajrass]**
+- University ID: **[3161057]**
+- Section: **[Computer Scienes]**
 
 ## Run
 Install a JDK (tested with Eclipse Adoptium OpenJDK 17.0.17). From the repository folder:
